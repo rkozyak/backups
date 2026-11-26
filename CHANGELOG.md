@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.1](https://github.com/futo-org/backups/compare/v1.24.0...v1.24.1) (2026-11-26)
+
+
+### Continuous Integration
+
+* skip deploy for macos-app and docs only commits ([#369](https://github.com/futo-org/backups/issues/369)) ([ffd269b](https://github.com/futo-org/backups/commit/ffd269b6af17fb811f5695fcafb87b65977c5be0))
+
 ## [1.24.0](https://github.com/futo-org/backups/compare/v1.23.0...v1.24.0) (2026-11-26)
 
 

@@ -947,7 +947,7 @@ final class AppModel {
         self.config.lastRun = record
         self.saveConfig()
         self.finishOperation()
-        if record.status == .failed || record.status == .warn {
+        if record.status == .failed {
           self.lastError = record.message
         }
         self.recomputeNextRun()
